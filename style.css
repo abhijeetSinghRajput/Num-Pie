@@ -249,7 +249,7 @@ main menu {
     width: 300px;
     background-color: var(--dark-bg);
     color: white;
-    height: 100vh;
+    height: 100svh;
     position: relative;
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
